@@ -1,0 +1,13 @@
+﻿  tcp_conn.cpp
+  framework.cpp
+  application.cpp
+  正在生成代码...
+D:\soft\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1198,5): warning MSB8012: TargetPath(D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\module.dll) 与 Linker 的 OutputFile 属性值(D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\caoxinyu_module.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+D:\soft\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1200,5): warning MSB8012: TargetName(module) 与 Linker 的 OutputFile 属性值(caoxinyu_module)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+application.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\module.lib 和对象 D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\module.exp
+  module.vcxproj -> D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\module.dll
+  module.vcxproj -> D:\自己的项目\乐驿物流\grocket\grocket\win32_vc2010\caoxinyu2\make\vc\Debug\module.pdb (Full PDB)
+  已复制         1 个文件。
+  已复制         1 个文件。
+  已复制         1 个文件。
